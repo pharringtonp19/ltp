@@ -13,3 +13,4 @@ Learning to Program
 
 ### Haskell
 - [A](https://serokell.io/blog/haskell-typeclasses) typeclass defines a set of methods that is shared across multiple types.
+- [A](https://serokell.io/blog/haskell-typeclasses) type has an instance of a typeclass if it implements the methods of that typeclass.
