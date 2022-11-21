@@ -19,6 +19,7 @@ Learning to Program
 
 ### Lambda Calculus
 - [Sellinger's Notes](https://arxiv.org/pdf/0804.3434.pdf)
+  - It is a system for manipulating functions as expressions   
 
 ### Algebraic Effects & Handlers
 - [Ocaml](https://github.com/ocamllabs/ocaml-effects-tutorial), [YouTube](https://www.youtube.com/watch?v=plFFZcqBOyk)
