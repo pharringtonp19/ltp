@@ -24,4 +24,6 @@ Learning to Program
 ### Algebraic Effects & Handlers
 - [Ocaml](https://github.com/ocamllabs/ocaml-effects-tutorial), [YouTube](https://www.youtube.com/watch?v=plFFZcqBOyk)
 - [This](https://overreacted.io/algebraic-effects-for-the-rest-of-us/) is the part you can’t do with try / catch. It lets us jump back to where we performed the effect, and pass something back to it from the handler
-- [Effect Handlers](https://youtu.be/VEhkhxoGJSk?t=318): A mechanism for programming with user-defined effects. Modular basis for non-local control-flow mechanisms
+- [Effect Handlers](https://youtu.be/VEhkhxoGJSk?t=318): 
+   - A mechanism for programming with user-defined effects. Modular basis for non-local control-flow mechanisms
+   - First-Class restartable exceptions 
