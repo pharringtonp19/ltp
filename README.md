@@ -1,6 +1,8 @@
 # ltp
 Learning to Program
 
+- [Conor Hoekstra](https://twitter.com/code_report)
+
 > [families](https://www.cse.chalmers.se/~peterd/papers/DependentTypesAtWork.pdf) of types indexed by other types, not families of types indexed by elements of another type
 
 - [ ] [YouTube Channel](https://www.youtube.com/watch?v=1vXdNNSmvJw&list=PLE-CSy3N6yEeYY5tx1u5IP3d_2xZOmpKO)
