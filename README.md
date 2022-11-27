@@ -32,3 +32,7 @@ Learning to Program
 
 ### Combinators
 - Patterns of composition
+
+### Interpreters
+- [Meetup](https://www.meetup.com/programming-languages-toronto-meetup/events/289784058/)
+- [Textbook](http://www.craftinginterpreters.com/a-map-of-the-territory.html)
