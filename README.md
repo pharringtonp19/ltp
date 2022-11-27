@@ -29,3 +29,6 @@ Learning to Program
 - [Effect Handlers](https://youtu.be/VEhkhxoGJSk?t=318): 
    - A mechanism for programming with user-defined effects. Modular basis for non-local control-flow mechanisms
    - First-Class restartable exceptions 
+
+### Combinators
+- Patterns of composition
