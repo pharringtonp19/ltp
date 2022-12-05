@@ -1,6 +1,8 @@
 # ltp
 Learning to Program
 
+> computational context.
+
 - [Conor Hoekstra](https://twitter.com/code_report)
 - [Ben Deane](https://www.youtube.com/watch?v=on7v8nlyaAg)
 
