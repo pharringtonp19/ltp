@@ -17,6 +17,7 @@ Learning to Program
 - [In](http://learnyouanagda.liamoc.net/pages/introduction.html#fnref1) Agda, the distinction between types and values does not exist. Instead, the language you use to manipulate type terms is exactly the same language that you use to manipulate values.
 
 ### Haskell
+- [Detailed Examples](https://devtut.github.io/haskell/foldable.html#flattening-a-foldable-structure-into-a-list)
 - [A](https://serokell.io/blog/haskell-typeclasses) typeclass defines a set of methods that is shared across multiple types.
 - [A](https://serokell.io/blog/haskell-typeclasses) type has an instance of a typeclass if it implements the methods of that typeclass.
 - [Functors](https://mmhaskell.com/monads/functors) are an abstract mathematical structure that we represent in Haskell with a typeclass, and this structure has particular "laws" associated with it that dictate its expected behavior. Monads are the same way!
