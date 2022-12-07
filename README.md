@@ -1,6 +1,8 @@
 # ltp
 Learning to Program
 
+> [... Exihibits ad hoc polymorphism](https://youtu.be/2EdQFCP5mZ8?t=305)
+
 > computational context.
 
 - [Conor Hoekstra](https://twitter.com/code_report)
