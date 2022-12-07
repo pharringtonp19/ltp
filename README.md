@@ -2,6 +2,7 @@
 
 ### Type Theory
 > [Types come first](https://youtu.be/bNG53SA4n48?list=PLQRKUSOIMEh1Arz0-WBgD_Pol4S50HATv&t=267)
+> [Extensional Operations](https://youtu.be/bNG53SA4n48?list=PLQRKUSOIMEh1Arz0-WBgD_Pol4S50HATv&t=792) preserve isomorphisms
 
 > [... Exihibits ad hoc polymorphism](https://youtu.be/2EdQFCP5mZ8?t=305)
 
