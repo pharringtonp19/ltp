@@ -1,6 +1,7 @@
 # Learning to Program
 
 ### Intensional vs Extensional
+- [In Intensional](https://youtu.be/bNG53SA4n48?list=PLQRKUSOIMEh1Arz0-WBgD_Pol4S50HATv&t=877) type theory all operations are extensional
 
 ### Type Theory
 > [Types come first](https://youtu.be/bNG53SA4n48?list=PLQRKUSOIMEh1Arz0-WBgD_Pol4S50HATv&t=267)
