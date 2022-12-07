@@ -1,5 +1,7 @@
 # Learning to Program
 
+### Intensional vs Extensional
+
 ### Type Theory
 > [Types come first](https://youtu.be/bNG53SA4n48?list=PLQRKUSOIMEh1Arz0-WBgD_Pol4S50HATv&t=267)
 > [Extensional Operations](https://youtu.be/bNG53SA4n48?list=PLQRKUSOIMEh1Arz0-WBgD_Pol4S50HATv&t=792) preserve isomorphisms
