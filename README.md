@@ -45,6 +45,9 @@
 ### Combinators
 - Patterns of composition
 
+### CC Plus Plus
+- [Course Notes](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/resources/mit6_096iap11_lec02/)
+
 ### Interpreters
 - [Meetup](https://www.meetup.com/programming-languages-toronto-meetup/events/289784058/)
 - [Textbook](http://www.craftinginterpreters.com/a-map-of-the-territory.html)
