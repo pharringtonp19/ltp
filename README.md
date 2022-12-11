@@ -1,6 +1,6 @@
 # Learning to Program
 
-> [In](https://www.schoolofhaskell.com/user/school/starting-with-haskell/basics-of-haskell/3-pure-functions-laziness-io) Haskell you never assign to a variable, instead you bind a name to a value
+> [The](https://www.schoolofhaskell.com/user/school/starting-with-haskell/basics-of-haskell/3-pure-functions-laziness-io) way the actions are glued together is the essence of the Monad. Since the glueing happens between the lines, the Monad is sometimes described as an "overloading of the semicolon." Different monads overload it differently.
 
 ### Intensional vs Extensional
 - [In Intensional](https://youtu.be/bNG53SA4n48?list=PLQRKUSOIMEh1Arz0-WBgD_Pol4S50HATv&t=877) type theory all operations are extensional
