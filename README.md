@@ -27,6 +27,11 @@
 - [In](http://learnyouanagda.liamoc.net/pages/introduction.html#fnref1) Agda, the distinction between types and values does not exist. Instead, the language you use to manipulate type terms is exactly the same language that you use to manipulate values.
 
 ### Haskell
+
+##### Actions
+  - [Actions](https://www.haskell.org/tutorial/io.html) are defined rather than invoked within the expression language of Haskell. Evaluating the definition of an action doesn't actually cause the action to happen. Rather, the invocation of actions takes place outside of the expression evaluation we have considered up to this point.
+  - [Produce](https://book.realworldhaskell.org/read/io.html#ftn.id610368) an effect when performed, but not when evaluated. That is, they only produce an effect when called by something else in an I/O context
+  
 - [Bartoz](https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/function-application)
 - [Exceptions](https://markkarpov.com/tutorial/exceptions.html#the-motivation-for-exceptions)
 - Continuations
