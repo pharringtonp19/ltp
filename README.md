@@ -28,6 +28,8 @@
 
 ### Haskell
 
+- [Concrete Types](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#monoids)
+
 ##### Actions
   - [Actions](https://www.haskell.org/tutorial/io.html) are defined rather than invoked within the expression language of Haskell. Evaluating the definition of an action doesn't actually cause the action to happen. Rather, the invocation of actions takes place outside of the expression evaluation we have considered up to this point.
   - [Produce](https://book.realworldhaskell.org/read/io.html#ftn.id610368) an effect when performed, but not when evaluated. That is, they only produce an effect when called by something else in an I/O context
