@@ -28,7 +28,9 @@
 
 ### Haskell
 
-- [Concrete Types](http://learnyouahaskell.com/functors-applicative-functors-and-monoids#monoids)
+- Concrete Types `->` Type Constructors
+
+- `wrap it with a newtype`
 
 ##### Actions
   - [Actions](https://www.haskell.org/tutorial/io.html) are defined rather than invoked within the expression language of Haskell. Evaluating the definition of an action doesn't actually cause the action to happen. Rather, the invocation of actions takes place outside of the expression evaluation we have considered up to this point.
