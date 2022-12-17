@@ -1,6 +1,7 @@
 # Learning to Program
 
-[Sellinger's Notes](https://arxiv.org/pdf/0804.3434.pdf) | hmm
+[Sellinger's Notes](https://arxiv.org/pdf/0804.3434.pdf) | Types and Programming Languages | Essentials of Programming Languages | Programming Language Pragmatics | Milner’s
+pi-calculus book |  Hoare Logic and axiomatic semantics (e.g. Winskel, 1993)
 
 > [The](https://www.schoolofhaskell.com/user/school/starting-with-haskell/basics-of-haskell/3-pure-functions-laziness-io) way the actions are glued together is the essence of the Monad. Since the glueing happens between the lines, the Monad is sometimes described as an "overloading of the semicolon." Different monads overload it differently.
 
