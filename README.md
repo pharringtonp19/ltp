@@ -1,5 +1,7 @@
 # Learning to Program
 
+[Sellinger's Notes](https://arxiv.org/pdf/0804.3434.pdf) | hmm
+
 > [The](https://www.schoolofhaskell.com/user/school/starting-with-haskell/basics-of-haskell/3-pure-functions-laziness-io) way the actions are glued together is the essence of the Monad. Since the glueing happens between the lines, the Monad is sometimes described as an "overloading of the semicolon." Different monads overload it differently.
 
 ### Intensional vs Extensional
@@ -46,9 +48,7 @@
 - [Functors](https://mmhaskell.com/monads/functors) are an abstract mathematical structure that we represent in Haskell with a typeclass, and this structure has particular "laws" associated with it that dictate its expected behavior. Monads are the same way!
 - [In](https://stackoverflow.com/questions/7103864/what-are-practical-uses-of-applicative-style) practice, I mostly find myself using applicatives much in the same way like I use point-free style: To avoid naming intermediate values when an operation is more clearly expressed as a composition of other operations
 
-### Lambda Calculus
-- [Sellinger's Notes](https://arxiv.org/pdf/0804.3434.pdf)
-  - It is a system for manipulating functions as expressions   
+  
 
 ### Algebraic Effects & Handlers
 - [Ocaml](https://github.com/ocamllabs/ocaml-effects-tutorial), [YouTube](https://www.youtube.com/watch?v=plFFZcqBOyk)
