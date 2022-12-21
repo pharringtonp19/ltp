@@ -1,5 +1,7 @@
 # Learning to Program
 
+> [So, when will an I/O action be performed?](http://learnyouahaskell.com/input-and-output#hello-world)
+
 [Sellinger's Notes](https://arxiv.org/pdf/0804.3434.pdf) | Types and Programming Languages | Essentials of Programming Languages | Programming Language Pragmatics | Milner’s
 pi-calculus book |  Hoare Logic and axiomatic semantics (e.g. Winskel, 1993)
 
