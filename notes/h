@@ -1,3 +1,0 @@
-- [Since](https://www.cse.chalmers.se/~ulfn/papers/afp08/tutorial.pdf) dependent types allows types to talk about values, we can encode
-properties of values as types whose elements are proofs that the property
-is true.
