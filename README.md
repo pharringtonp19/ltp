@@ -1,5 +1,9 @@
 # Learning to Program
 
+- [Algebra](https://www.youtube.com/watch?v=-98fR9VmLbQ)
+  - Ability to form expressions with `operations`, `numbers`, and `symbols`
+  - Ability to evaluate Expressions 
+
 [Midlands Graduate School in the Foundations of Computing Science](https://staffwww.dcs.shef.ac.uk/people/G.Struth/mgs21.html)
 
 `data Vec (X : Set) : N -> Set where`
