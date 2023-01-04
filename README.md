@@ -1,5 +1,7 @@
 # Learning to Program
 
+[Midlands Graduate School in the Foundations of Computing Science](https://staffwww.dcs.shef.ac.uk/people/G.Struth/mgs21.html)
+
 `data Vec (X : Set) : N -> Set where`
 
 > [So, when will an I/O action be performed?](http://learnyouahaskell.com/input-and-output#hello-world)
